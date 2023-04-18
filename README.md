@@ -1,10 +1,4 @@
-- 👋 Hi, I’m kevinTsai
-- 💻 python programmer -- start my career with python(major)
-- 💻 golang programmer lately
-- 🏀 basketball -- seriously addict to basletball, i think it a good way to release stress
-- 💪 fitness
-- ⏲️ Currently learning how to be a better programmer, it's really too much to learn
-- 📫 How to reach me --> kevin19930919@gmail.com
+<a href="https://app.daily.dev/kevTsai"><img src="https://api.daily.dev/devcards/7d07f0670eda403781e117b9955c2459.png?r=krf" width="400" alt="kevinTsai's Dev Card"/></a>
 
 <!---
 kevin19930919/kevin19930919 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
